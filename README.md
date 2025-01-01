@@ -29,4 +29,4 @@ This project provided a fantastic opportunity to enhance my web development skil
 
 ***
 
-![ExploreSriLanka](https://drive.google.com/file/d/1MGXjazFyVUMKrWEpfrBVsv_6ekO02TNe/view?usp=drive_link)
+![ExploreSriLanka demo image](ExploreSriLanka/demoimg/01.png)
